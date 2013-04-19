@@ -1,12 +1,16 @@
 Windows Hibernate Countdown
 ===========================
 
-Schedule your Windows computer to hibernate after a given amount of time.
+Windows Hibernate Countdown (WHC) allows you to use Python to schedule your Windows computer to hibernate after a given amount of time.
+
+You will need Python 2.x installed on your computer to use WHC.
 
 Documentation
 -------------
 
-Documentation forthcoming.
+WHC is designed for use from command-line (e.g., Command Prompt or PowerShell).
+
+Once in the WHC directory, load `hibernate.py` using the command `python hibernate.py`, then follow the on-screen instructions.
 
 License
 -------
